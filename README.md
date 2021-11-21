@@ -17,9 +17,13 @@
 
 
 ### Standard transponder codes
-2000 IFR in G until you have clearance
 
-3000 VFR in D, or IFR in E (rare)
+|code|meaning|
+|---|---|
+|1200|VFR|
+|2000|IFR in G on startup|
+|3000|VFR in D, or IFR in E (rare)|
+|7600|Com fail|
 
 ### Recency
 61.920  Limitations on exercise of privileges of private instrument ratings—recent experience
