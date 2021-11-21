@@ -14,4 +14,12 @@ Top of descent point = thousands to lose * 3
 3000 VFR in D, or IFR in E (rare)
 
 ### Recency
-Must have completed a flight under the IFR within the previous 6 months which went for 1 hour and had 1 instrument approach.
+61.920  Limitations on exercise of privileges of private instrument ratings—recent experience
+
+             (1)  The holder of a private instrument rating is authorised to conduct an instrument approach as pilot in command of an aircraft in IMC only if the holder has conducted an instrument approach of the same kind:
+
+                     (a)  within the previous 6 months; and
+
+                     (b)  in an aircraft of the same category or an approved flight simulation training device for the purpose.
+
+             (2)  The holder of a private instrument rating is authorised to pilot an aircraft under the IFR as pilot in command only if the holder has piloted an aircraft under the IFR within the previous 6 months.
