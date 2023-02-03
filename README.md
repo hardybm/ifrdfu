@@ -6,13 +6,13 @@
 - Top of descent point = thousands to lose * 3
 -- (for example, Need to get to 3000, currently at 10,000. 7,000 to loose, 7*3 = 21 = start your 3 degree descent at 21 miles out)
 
-### Speeds
+### Speeds (Cat A)
 
 |Segment|Speed(kt)|
 |---|---|
 |Initial|90-150|
 |Final|70-100|
-|Circling|100|
+|Circling (1.68 nm)|100|
 |Missed|110|
 
 
